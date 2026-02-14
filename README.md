@@ -10,8 +10,8 @@
   1. Download Nimbus.app from this repo
   2. Open Terminal and run:
 
-  xattr -cr ~/Downloads/Nimbus.app && chmod +x
-  ~/Downloads/Nimbus.app/Contents/MacOS/nimbus-gui
+  xattr -cr ~/Downloads/nimbus-tester-build-only-main/Nimbus.app && chmod +x
+  ~/Downloads/nimbus-tester-build-only-main/Nimbus.app/Contents/MacOS/nimbus-gui
 
   3. Double-click Nimbus.app to launch
 
