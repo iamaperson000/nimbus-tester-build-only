@@ -1,7 +1,7 @@
  Nimbus                                                        
                                                                                 
   A native macOS Rainmeter-compatible skin engine. Runs Rainmeter skins         
-  (including the Monstercat Visualizer) on macOS without modification.
+  on macOS without modification.
                                                                                 
   Requires macOS 14.0+                                                          
                                                                                 
@@ -19,8 +19,7 @@
   macOS Gatekeeper blocks it on download. The terminal command clears the
   quarantine flag and restores the executable permission that Git strips.
 
-  Permissions
-  IMPORTANT
+  Permissions (IMPORTANT)
 
   On first launch, (if you choose to add monstercat or similar skins that need acesss to spotify, 
   now playing, etc) macOS will prompt you for Screen Recording permission. This
